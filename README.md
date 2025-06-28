@@ -1,18 +1,35 @@
-# Dilip Kumar
+# 👨‍💻 Dilip Kumar
 
-👋 Full Stack Developer passionate about creating impactful web and mobile applications.
+**Full Stack Developer** passionate about building impactful web and backend applications that deliver value.
 
-## Skills
+---
 
-•⁠  ⁠Backend: Java, Python, Spring Boot, Node
-•⁠  ⁠Databases: MySql, PostgreSQL, MongoDB, Couchbase
-•⁠  ⁠Cloud: AWS, Azure
-•⁠  ⁠Cache: Redis, Couchbase
-•⁠  ⁠Frontend: React, Next.js
-•⁠  ⁠Other: JavaScript, TypeScript, 
+## 🚀 Skills & Technologies
 
-## Get in Touch
+**Backend:**  
+Java · Python · Spring Boot · Node.js
 
-•⁠  ⁠📧 Email: dilipkr7587@gmail.com
+**Databases:**  
+MySQL · PostgreSQL · MongoDB · Couchbase
 
-Always open to collaboration and new opportunities. Let's connect!
+**Cloud Platforms:**  
+AWS · Azure
+
+**Caching:**  
+Redis · Couchbase
+
+**Frontend:**  
+React · Next.js
+
+**Languages & Tools:**  
+JavaScript · TypeScript
+
+---
+
+## 📬 Get in Touch
+
+**Email:** [dilipkr7587@gmail.com](mailto:dilipkr7587@gmail.com)
+
+---
+
+✨ Always open to collaboration and new opportunities. Let’s connect and build something amazing together!
