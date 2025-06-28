@@ -10,7 +10,7 @@
 Java · Python · Spring Boot · Node.js
 
 **Databases:**  
-MySQL · PostgreSQL · MongoDB · Couchbase
+MySQL · PostgreSQL · DB2 ·MongoDB · Couchbase
 
 **Cloud Platforms:**  
 AWS · Azure
