@@ -1,16 +1,18 @@
-## Hi there 👋
+# Dilip Kumar
 
-<!--
-**devdilip/devdilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Full Stack Developer passionate about creating impactful web and mobile applications.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+•⁠  ⁠Backend: Java, Python, Spring Boot, Node
+•⁠  ⁠Databases: MySql, PostgreSQL, MongoDB, Couchbase
+•⁠  ⁠Cloud: AWS, Azure
+•⁠  ⁠Cache: Redis, Couchbase
+•⁠  ⁠Frontend: React, Next.js
+•⁠  ⁠Other: JavaScript, TypeScript, 
+
+## Get in Touch
+
+•⁠  ⁠📧 Email: dilipkr7587@gmail.com
+
+Always open to collaboration and new opportunities. Let's connect!
