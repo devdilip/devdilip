@@ -10,7 +10,7 @@
 Java · Python · Spring Boot · Node.js
 
 **Databases:**  
-MySQL · PostgreSQL · DB2 ·MongoDB · Couchbase
+MySQL · PostgreSQL · MongoDB · Couchbase · DB2
 
 **Cloud Platforms:**  
 AWS · Azure
@@ -18,11 +18,14 @@ AWS · Azure
 **Caching:**  
 Redis · Couchbase
 
+**Frontend Languages & Tools:**  
+JavaScript · TypeScript
+
 **Frontend:**  
 React · Next.js
 
-**Languages & Tools:**  
-JavaScript · TypeScript
+**DevOps & Monitoring:**  
+Jenkins · Splunk · K6 · Elasticsearch
 
 ---
 
